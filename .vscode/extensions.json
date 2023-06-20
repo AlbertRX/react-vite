@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "formulahendry.auto-rename-tag",
+    "dsznajder.es7-react-js-snippets",
+    "ClemensPeters.format-json",
+    "esbenp.prettier-vscode",
+    "EditorConfig.EditorConfig",
+    "dbaeumer.vscode-eslint",
+    "GitHub.copilot-nightly",
+    "GitHub.copilot-chat"
+  ]
+}
