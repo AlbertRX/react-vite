@@ -1,10 +1,11 @@
 import Test from '@/pages/test';
 import { Navigate, useRoutes } from 'react-router-dom';
+import Home from '../pages/home';
 
 const router = [
   {
     path: '/',
-    element: <div>Home</div>
+    element: <Home />
   },
   {
     path: '/login',
